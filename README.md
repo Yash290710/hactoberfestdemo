@@ -1,6 +1,6 @@
 # hactoberfestdemo
 Welcome! 
 ## ADD YOUR NAMES BELOW:
-ANKIT KUMAR YADAV
-ankityadav1852@gmail.com
-Soumili @sequin_lush
+yash
+ys3983023@gmail.com
+singh_yash2907
